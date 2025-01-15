@@ -1,3 +1,4 @@
+---
 global:
   pattern: xray
 
@@ -32,4 +33,3 @@ main:
   #  region: us-east-1
   #  clustername: example-sample
   #  domain: patterns.redhat.com
-
